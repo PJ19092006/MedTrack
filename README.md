@@ -203,7 +203,3 @@ The easiest way to deploy is using [Vercel](https://vercel.com):
 ## Support
 
 For issues, questions, or suggestions, please open an issue in the repository or contact the development team.
-
-## License
-
-[Add appropriate license information]
